@@ -5,8 +5,8 @@ NoteNest is a powerful note-taking web application that allows you to effortless
 
 Features:
 
-> Create new notes with titles and descriptions.
-> Edit notes conveniently with real-time updates.
-> Organize your notes effectively for easy access.
-> Search for specific notes using the built-in search functionality.
-> Stay productive, streamline your note-taking process and boost your productivity. 
+1) Create new notes with titles and descriptions.
+2) Edit notes conveniently with real-time updates.
+3) Organize your notes effectively for easy access.
+4) Search for specific notes using the built-in search functionality.
+5) Stay productive, streamline your note-taking process and boost your productivity. 
