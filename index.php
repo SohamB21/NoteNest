@@ -9,7 +9,7 @@
 
 <!-- Header section -->
 <header class="flex flex-col justify-center text-center bg-blue-200 w-2/3 m-auto my-4 p-1 border border-blue-500 rounded">
-    <h1 class="text-2xl font-semibold font-serif">To Do List</h1>
+    <h1 class="text-2xl font-semibold font-serif">NoteNest</h1>
     <p class="italic">"Enhance Your Productivity: Create, Update and Conquer with My Dynamic To-Do List!"</p>
 </header>
 
