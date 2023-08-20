@@ -13,7 +13,10 @@ Features:
 
 Some snippets of NoteNest:
 
-![1000141061](https://github.com/SohamB21/NoteNest/assets/105418470/5d1eca8e-4713-4862-b78d-fa691d66dfdc)
-![1000141063](https://github.com/SohamB21/NoteNest/assets/105418470/d8d152ca-e4a8-4638-93fb-7f679081d134)
-![1000141062](https://github.com/SohamB21/NoteNest/assets/105418470/fb576411-c706-49c6-be41-b7c02813bbf2)
 ![1000141064](https://github.com/SohamB21/NoteNest/assets/105418470/4c5475f1-f130-46e5-97f0-9ae3a831f8e6)
+
+![1000141062](https://github.com/SohamB21/NoteNest/assets/105418470/fb576411-c706-49c6-be41-b7c02813bbf2)
+
+![1000141061](https://github.com/SohamB21/NoteNest/assets/105418470/5d1eca8e-4713-4862-b78d-fa691d66dfdc)
+
+![1000141063](https://github.com/SohamB21/NoteNest/assets/105418470/d8d152ca-e4a8-4638-93fb-7f679081d134)
